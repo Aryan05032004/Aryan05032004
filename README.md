@@ -2,12 +2,17 @@
 <h3 align="center">Fourth-year B.E. IT student blending software skills with a love for cricket and chess</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan05032004&label=Profile%20views&color=0e75b6&style=flat" alt="aryan05032004" /> </p>
+<hr>
 
 - 🌱 I’m currently learning **next.js**
-
+<hr>
 - 📫 How to reach me **aryan.jadhav05032004@gmail.com**
 
+<hr>
+
 - ⚡ Fun fact **I sometimes wish I could use Ctrl+Z in real life, just like in coding!**
+
+- <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
