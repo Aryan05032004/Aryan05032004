@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=aryan05032004&label=Profile%20views&color=0e75b6&style=flat" alt="aryan05032004" /> 
 </p>
 
-<img align="right" alt="Giphy" width="400" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif">
+<img align="right" alt="Giphy" width="350" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif">
 
 - 🌱 I’m currently learning **Next.js**
 
