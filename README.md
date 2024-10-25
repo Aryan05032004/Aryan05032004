@@ -73,8 +73,16 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
     </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="50" height="50"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50"/>
+    </a>
 </p>
 
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan05032004&show_icons=true&locale=en" alt="aryan05032004" />
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notoriousmb10&" alt="notoriousmb10" /></p>
