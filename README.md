@@ -81,8 +81,7 @@
     </a>
 </p>
 
-<p>&nbsp;
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan05032004&show_icons=true&locale=en" alt="aryan05032004" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan05032004" alt="notoriousmb10" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notoriousmb10&" alt="notoriousmb10" /></p>
